@@ -1,3 +1,2 @@
 My first readme
-be up to date
-updated file in README.md
+Be up to date
